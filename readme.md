@@ -132,11 +132,24 @@ Praktikum Modul 2 Jaringan Komputer - **IT07**
   iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE -s 10.67.0.0/16
   echo 'nameserver 192.168.122.1' > /etc/resolv.conf
   ```
-- **DNS (Master & Slave)**
+- **DNS (Master)**
 
   ```
   apt-get update
   apt-get install bind9 -y
+
+  bash dnsmaster.sh
+
+  echo 'nameserver 192.168.122.1' > /etc/resolv.conf
+  ```
+
+- **DNS (Slave)**
+
+  ```
+  apt-get update
+  apt-get install bind9 -y
+
+  bash dnsslave.sh
 
   echo 'nameserver 192.168.122.1' > /etc/resolv.conf
   ```
@@ -227,7 +240,7 @@ host -t PTR 10.67.2.4
 ```
 
 <p align="center">
-    <img src="">
+    <img src="https://i.ibb.co/jy619Wx/Screenshot-36.png">
 
 ## Soal 6
 
@@ -237,18 +250,20 @@ host -t PTR 10.67.2.4
 
 A. di master, service bind9 stop
 
+<p align="center">
+    <img src="https://i.ibb.co/Xp0Wbc2/Screenshot-38.png">
+
 B. di nakula client, lakukan command berikut
 
 ```bash
 ping abimanyu.it07.com
 ```
 
+<p align="center">
+    <img src="https://i.ibb.co/Xp0Wbc2/Screenshot-38.png">
 C. berhasil == slave berhasil jadi dns cadangan
 
 D. di master, service bind9 start, untuk soal selanjutnya
-
-<p align="center">
-    <img src="">
 
 ## Soal 7
 
@@ -262,7 +277,7 @@ ping www.baratayuda.abimanyu.it07.com
 ```
 
 <p align="center">
-    <img src="">
+    <img src="https://i.ibb.co/Ptj3ChB/Screenshot-37.png">
 
 ## Soal 8
 
@@ -276,4 +291,4 @@ ping www.rjp.baratayuda.abimanyu.it07.com
 ```
 
 <p align="center">
-    <img src="">
+    <img src="https://i.ibb.co/4KkM0ZD/Screenshot-40.png">
