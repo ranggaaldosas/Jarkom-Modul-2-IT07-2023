@@ -15,6 +15,8 @@ Praktikum Modul 2 Jaringan Komputer - **IT07**
 
 <p align="center">
     <img src="https://i.ibb.co/vPCRwNW/02.png">
+<p align="center">
+    <img src="https://i.ibb.co/GJg0Rhx/Screenshot-41.png">
 
 # Laporan Resmi Modul 2
 
