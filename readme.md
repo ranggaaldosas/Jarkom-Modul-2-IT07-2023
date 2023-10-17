@@ -294,3 +294,125 @@ ping www.rjp.baratayuda.abimanyu.it07.com
 
 <p align="center">
     <img src="https://i.ibb.co/4KkM0ZD/Screenshot-40.png">
+
+## Soal 9 & 10
+
+<p align="center">
+    <img src="https://i.ibb.co/xh38wDd/Screenshot-42.png">
+<p align="center">
+    <img src="https://i.ibb.co/8mqZ3NC/Screenshot-43.png">
+<p align="center">
+    <img src="https://i.ibb.co/26ZWWFV/Screenshot-44.png">
+
+## Soal 11
+
+## Soal 12
+
+## Soal 13
+
+<p align="center">
+    <img src="https://i.ibb.co/drjCf4j/Screenshot-45.png">
+
+## Soal 14
+
+<p align="center">
+    <img src="https://i.ibb.co/kMtrp7N/Screenshot-46.png">
+
+#### /Secret???!!
+
+<p align="center">
+    <img src="https://i.ibb.co/0M5twc6/Screenshot-47.png">
+
+## Soal 15
+
+> /iniakanerror??! Alias 404
+
+<p align="center">
+    <img src="https://i.ibb.co/GQbnDSM/Screenshot-58.png">
+<p align="center">
+    <img src="https://i.ibb.co/3fxHRxm/Screenshot-48.png">
+
+> /403!!!!!
+
+<p align="center">
+    <img src="https://i.ibb.co/bNhnz2X/Screenshot-57.png">
+
+<p align="center">
+    <img src="https://i.ibb.co/0M5twc6/Screenshot-47.png">
+
+## Soal 16
+
+### Inilah /js yang anda minta puh
+
+> lynx parikesit.abimanyu.it07.com/js
+
+<p align="center">
+    <img src="https://i.ibb.co/93kqdGj/Screenshot-50.png">
+
+## Soal 17 & 18
+
+### Butuhh username dan password??!!
+
+> Rahasia yak:
+> **username: Wayang pass: baratayudait07**
+
+Hihi minta authorization
+
+<p align="center">
+    <img src="https://i.ibb.co/rc1fTF2/Screenshot-59.png">
+<p align="center">
+    <img src="https://i.ibb.co/vjBCX8Y/Screenshot-60.png">
+
+Sukses masuk :)
+
+<p align="center">
+    <img src="https://i.ibb.co/2nCVfQx/Screenshot-51.png">
+
+Jika username/password salah??
+
+<p align="center">
+    <img src="https://i.ibb.co/b1Pp68n/Screenshot-52.png">
+
+## Soal 19
+
+## Soal 20
+
+### Nyoba download gambar?
+
+> lynx parikesit.abimanyu.it07.com/public/images/not-abimanyu.png
+
+### Testing
+
+#### A. Download Gambar
+
+<p align="center">
+    <img src="https://i.ibb.co/GcBmK18/Screenshot-53.png">
+
+#### B. Wow bisa save ke local-disk
+
+<p align="center">
+    <img src="https://i.ibb.co/nk8W5VD/Screenshot-54.png">
+
+#### C. Coba ganti nama
+
+<p align="center">
+    <img src="https://i.ibb.co/6s9ZWY0/Screenshot-55.png">
+
+#### D. Muncul di local brow
+
+<p align="center">
+    <img src="https://i.ibb.co/4gf122q/Screenshot-56.png">
+
+---
+
+# IT07 Pamit
+
+## Authors
+
+| Nama                                                | NRP        |
+| --------------------------------------------------- | ---------- |
+| [Rangga Aldo](https://www.github.com/ranggaaldosas) | 5027211059 |
+| [Maulana Ilyasa](https://www.github.com/xxx)        | 5027211065 |
+
+<p align="center">
+    <img src="https://i.ibb.co/Z6Hf5Rq/82u6f1.jpg">
