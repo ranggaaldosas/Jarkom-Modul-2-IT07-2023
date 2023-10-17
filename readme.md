@@ -328,6 +328,7 @@ lynx http://10.67.2.6:8003 #Wisageni
 ### scripting
 
 ```bash
+lynx abimanyu.it07.com
 
 ```
 
@@ -337,11 +338,12 @@ lynx http://10.67.2.6:8003 #Wisageni
 ## Soal 12
 
 ###
+12. Setelah berhasil pada nomer 11, sekarang ubah directory menjadi /home seperti https://www.abimanyu.yyy.com/home
 
-###
+### scripting
 
 ```bash
-
+lynx abimanyu.it07.com/home
 ```
 
 <p align="center">
@@ -350,11 +352,12 @@ lynx http://10.67.2.6:8003 #Wisageni
 ## Soal 13
 
 ###
+13. Setelah berhasi setup parikesit di nomer atas, sekrang kita panggil kembali subdomain nya dengan format https://www.parikesit.abimanyu.yyy.com/ 
 
-###
+### scripting
 
 ```bash
-
+lynx parikesit.abimanyu.it07.com
 ```
 
 <p align="center">
@@ -363,10 +366,13 @@ lynx http://10.67.2.6:8003 #Wisageni
 ## Soal 14
 
 ###
+14. Lalu pada format parikesit yang sama pada nomer 13, pada nomer 14 ini kita menambahkan masing” /public untuk melakukan directory listing, dan  /secret tidak dapat diakses (403 forbidden)
 
-###
+### scripting
 
 ```bash
+lynx parikesit.abimanyu.it07.com/public
+lynx parikesit.abimanyu.it07.com/secret
 
 ```
 
@@ -381,10 +387,13 @@ lynx http://10.67.2.6:8003 #Wisageni
 ## Soal 15
 
 ###
+15. Membuat customisasi halaman error /errortest yang dimana akan menampilkan alert 404 not found serta pesan, lalu untuk halaman /secret akan muncul alert 403 forbidden serta terdapat pesan
 
-###
+### scripting
 
 ```bash
+lynx parikesit.abimanyu.it07.com/iniakanerror
+lynx parikesit.abimanyu.it07.com/secret
 
 ```
 
@@ -406,12 +415,9 @@ lynx http://10.67.2.6:8003 #Wisageni
 ## Soal 16
 
 ###
+16. Mengubah virtual host pada file asset agar lebih singkat yang dimana sebelumnya https://www.parikesit.abimanyu.yyy.com/public/js menjadi /js saja pada belakangnya
 
-###
-
-```bash
-
-```
+### 
 
 ### Inilah /js yang anda minta puh
 
@@ -423,10 +429,15 @@ lynx http://10.67.2.6:8003 #Wisageni
 ## Soal 17 & 18
 
 ###
+17. Membuat sebuah konfigurasi  baru www.rjp.baratayuda.abimanyu.yyy.com lalu untuk memanggilnya dilakukan kustomisasi port dengan menambahkan port listen 14000 dan 14400.
 
-###
+18. Setelah berhasil pada nomer 17, sekarang kita tambahkan username “Wayang” dan password “baratayudait07”untuk melakukan autentikasi saat hendak masuk ke  www.rjp.baratayuda.abimanyu.yyy.com
+
+### scripting
 
 ```bash
+lynx rjp.baratayuda.abimanyu.it07.com:14000
+lynx rjp.baratayuda.abimanyu.it07.com:14400
 
 ```
 
@@ -455,12 +466,9 @@ Jika username/password salah??
 ## Soal 19
 
 ###
+19. Setiap melakukan pemanggilan IP abimanyu maka akan dibuat sistem otomatis yang men direct kepada link https://www.abimanyu.yyy.com/ yang telah di kustomisasi
 
-###
-
-```bash
-
-```
+### scripting
 
 > lynx 10.67.2.4 #nyoba ke abimanyu
 
@@ -470,14 +478,15 @@ Jika username/password salah??
 ## Soal 20
 
 ###
+20. Pada format parikesit yang sudah dibuat pada nomer 13 https://www.parikesit.abimanyu.yyy.com/ kita mengubah request gambar yang terdapat substring “abimanyu” langsung di direct menuju abimanyu.png
 
-###
+### 
 
 ### Nyoba download gambar?
 
 > lynx parikesit.abimanyu.it07.com/public/images/not-abimanyu.png
 
-### Scripting
+### 
 
 #### A. Download Gambar
 
