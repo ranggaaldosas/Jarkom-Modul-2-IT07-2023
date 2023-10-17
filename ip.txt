@@ -1,0 +1,11 @@
+YudhistiraDNSMaster 10.67.3.2
+WerkudaraDNSSlave 10.67.2.2
+
+SadewaClient 10.67.1.2
+NakulaClient 10.67.1.3
+
+ArjunaLoadBalancer 10.67.2.3
+
+AbimayuWebServer 10.67.2.4
+PrabukusumaWebServer 10.67.2.5
+WisageniWebSever 10.67.2.6
