@@ -375,6 +375,11 @@ Jika username/password salah??
 
 ## Soal 19
 
+> lynx 10.67.2.4 #nyoba ke abimanyu
+
+<p align="center">
+    <img src="https://i.ibb.co/pvC6MXk/Screenshot-61.png">
+
 ## Soal 20
 
 ### Nyoba download gambar?
