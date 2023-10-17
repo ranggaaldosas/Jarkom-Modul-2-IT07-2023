@@ -194,7 +194,7 @@ https://i.ibb.co/PMrwXsX/Screenshot-31.png">
 
 #### 2. Buatlah website utama pada node arjuna dengan akses ke arjuna.yyy.com dengan alias www.arjuna.yyy.com dengan yyy merupakan kode kelompok.
 
-### Testing
+### Scripting
 
 ```bash
 ping arjuna.it07.com
@@ -208,7 +208,7 @@ ping www.arjuna.it07.com
 
 #### 3. Dengan cara yang sama seperti soal nomor 2, buatlah website utama dengan akses ke abimanyu.yyy.com dan alias www.abimanyu.yyy.com.
 
-### Testing
+### Scripting
 
 ```bash
 ping abimanyu.it07.com
@@ -222,7 +222,7 @@ ping www.abimanyu.it07.com
 
 #### 4. Kemudian, karena terdapat beberapa web yang harus di-deploy, buatlah subdomain parikesit.abimanyu.yyy.com yang diatur DNS-nya di Yudhistira dan mengarah ke Abimanyu.
 
-### Testing
+### Scripting
 
 ```bash
 ping parikesit.abimanyu.it07.com
@@ -235,7 +235,7 @@ ping parikesit.abimanyu.it07.com
 
 #### 5. Buat juga reverse domain untuk domain utama. (Abimanyu saja yang direverse)
 
-### Testing
+### Scripting
 
 ```bash
 host -t PTR 10.67.2.4
@@ -248,7 +248,7 @@ host -t PTR 10.67.2.4
 
 #### 6. Agar dapat tetap dihubungi ketika DNS Server Yudhistira bermasalah, buat juga Werkudara sebagai DNS Slave untuk domain utama.
 
-### Testing
+### Scripting
 
 A. di master, service bind9 stop
 
@@ -271,7 +271,7 @@ D. di master, service bind9 start, untuk soal selanjutnya
 
 #### 7. Seperti yang kita tahu karena banyak sekali informasi yang harus diterima, buatlah subdomain khusus untuk perang yaitu baratayuda.abimanyu.yyy.com dengan alias www.baratayuda.abimanyu.yyy.com yang didelegasikan dari Yudhistira ke Werkudara dengan IP menuju ke Abimanyu dalam folder Baratayuda.
 
-### Testing
+### Scripting
 
 ```bash
 ping baratayuda.abimanyu.it07.com
@@ -285,7 +285,7 @@ ping www.baratayuda.abimanyu.it07.com
 
 #### 8. Seperti yang kita tahu karena banyak sekali informasi yang harus diterima, buatlah subdomain khusus untuk perang yaitu baratayuda.abimanyu.yyy.com dengan alias www.baratayuda.abimanyu.yyy.com yang didelegasikan dari Yudhistira ke Werkudara dengan IP menuju ke Abimanyu dalam folder Baratayuda.
 
-### Testing
+### Scripting
 
 ```bash
 ping rjp.baratayuda.abimanyu.it07.com
@@ -306,7 +306,13 @@ ping www.rjp.baratayuda.abimanyu.it07.com
 
 ## Soal 11
 
+<p align="center">
+    <img src="https://i.ibb.co/bNG4Zn2/Screenshot-62.png">
+
 ## Soal 12
+
+<p align="center">
+    <img src="https://i.ibb.co/hXwmcQ1/Screenshot-63.png">
 
 ## Soal 13
 
@@ -386,7 +392,7 @@ Jika username/password salah??
 
 > lynx parikesit.abimanyu.it07.com/public/images/not-abimanyu.png
 
-### Testing
+### Scripting
 
 #### A. Download Gambar
 
