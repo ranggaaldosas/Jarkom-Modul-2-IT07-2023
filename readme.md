@@ -297,6 +297,21 @@ ping www.rjp.baratayuda.abimanyu.it07.com
 
 ## Soal 9 & 10
 
+###
+
+9. Melakukan sebuah deployment untuk ketiga worker (Abimanyu,Prabukusuma,Wisanggeni) yang dimana Arjuna bertindak sebagai load balancer serta menggunakan nginx sebagai web server
+
+10. Setelah berhasil setup pada nomer 9,tugas pada nomer 10 tidak lebih hanya menambahkan port pada masing-masing worker untuk formatnya kurang lebih Prabakusuma:8001 ,Abimanyu:8002 ,Wisanggeni:8003 dalam menjalankannya.
+
+### scripting
+
+```bash
+lynx http://10.67.2.5:8001 #Prabukusuma
+lynx http://10.67.2.4:8002 #Abimanyu
+lynx http://10.67.2.6:8003 #Wisageni
+
+```
+
 <p align="center">
     <img src="https://i.ibb.co/xh38wDd/Screenshot-42.png">
 <p align="center">
@@ -306,20 +321,54 @@ ping www.rjp.baratayuda.abimanyu.it07.com
 
 ## Soal 11
 
+###
+
+11. Melakukan konfigurasi web server yang dibuat dengan https://www.abimanyu.yyy.com/ pada worker abimanyu,tapi sebelum itu buatlah server dengan DocumentRoot /var/www/abimanyu.yyy.
+
+### scripting
+
+```bash
+
+```
+
 <p align="center">
     <img src="https://i.ibb.co/bNG4Zn2/Screenshot-62.png">
 
 ## Soal 12
+
+###
+
+###
+
+```bash
+
+```
 
 <p align="center">
     <img src="https://i.ibb.co/hXwmcQ1/Screenshot-63.png">
 
 ## Soal 13
 
+###
+
+###
+
+```bash
+
+```
+
 <p align="center">
     <img src="https://i.ibb.co/drjCf4j/Screenshot-45.png">
 
 ## Soal 14
+
+###
+
+###
+
+```bash
+
+```
 
 <p align="center">
     <img src="https://i.ibb.co/kMtrp7N/Screenshot-46.png">
@@ -330,6 +379,14 @@ ping www.rjp.baratayuda.abimanyu.it07.com
     <img src="https://i.ibb.co/0M5twc6/Screenshot-47.png">
 
 ## Soal 15
+
+###
+
+###
+
+```bash
+
+```
 
 > /iniakanerror??! Alias 404
 
@@ -348,6 +405,14 @@ ping www.rjp.baratayuda.abimanyu.it07.com
 
 ## Soal 16
 
+###
+
+###
+
+```bash
+
+```
+
 ### Inilah /js yang anda minta puh
 
 > lynx parikesit.abimanyu.it07.com/js
@@ -356,6 +421,14 @@ ping www.rjp.baratayuda.abimanyu.it07.com
     <img src="https://i.ibb.co/93kqdGj/Screenshot-50.png">
 
 ## Soal 17 & 18
+
+###
+
+###
+
+```bash
+
+```
 
 ### Butuhh username dan password??!!
 
@@ -381,12 +454,24 @@ Jika username/password salah??
 
 ## Soal 19
 
+###
+
+###
+
+```bash
+
+```
+
 > lynx 10.67.2.4 #nyoba ke abimanyu
 
 <p align="center">
     <img src="https://i.ibb.co/pvC6MXk/Screenshot-61.png">
 
 ## Soal 20
+
+###
+
+###
 
 ### Nyoba download gambar?
 
